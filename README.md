@@ -1,2 +1,2 @@
 # game
-first online unity game woo
+Click the application file called "Basic Fighting Mechanics"
